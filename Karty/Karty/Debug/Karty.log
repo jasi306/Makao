@@ -1,0 +1,64 @@
+﻿  AI.cpp
+c:\users\jask3\source\repos\karty\karty\ai.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\jask3\source\repos\karty\karty\ai.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\jask3\source\repos\karty\karty\ai.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\jask3\source\repos\karty\karty\ai.cpp(75): warning C4018: '>': signed/unsigned mismatch
+  Deck.cpp
+c:\users\jask3\source\repos\karty\karty\deck.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\jask3\source\repos\karty\karty\deck.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\jask3\source\repos\karty\karty\deck.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+c:\users\jask3\source\repos\karty\karty\game.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jask3\source\repos\karty\karty\game.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jask3\source\repos\karty\karty\game.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Interactions.cpp
+c:\users\jask3\source\repos\karty\karty\interactions.cpp(6): error C2511: 'Interactions::Interactions(void)': overloaded member function not found in 'Interactions'
+  c:\users\jask3\source\repos\karty\karty\interactions.h(3): note: see declaration of 'Interactions'
+  main.cpp
+c:\users\jask3\source\repos\karty\karty\main.cpp(47): error C2065: 'BaseAIBuild': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(47): error C2065: 'players': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(47): error C2065: 'dealer': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(47): error C2275: 'sDealer': illegal use of this type as an expression
+  c:\users\jask3\source\repos\karty\karty\sdealer.h(6): note: see declaration of 'sDealer'
+c:\users\jask3\source\repos\karty\karty\main.cpp(47): error C2182: 'start_up': illegal use of type 'void'
+c:\users\jask3\source\repos\karty\karty\main.cpp(47): error C2448: 'start_up': function-style initializer appears to be a function definition
+c:\users\jask3\source\repos\karty\karty\main.cpp(64): error C3861: 'Rules': identifier not found
+c:\users\jask3\source\repos\karty\karty\main.cpp(70): error C2065: 'BaseAIBuild': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(70): error C2065: 'players': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(70): error C2061: syntax error: identifier 'BaseAIBuild'
+c:\users\jask3\source\repos\karty\karty\main.cpp(71): error C2059: syntax error: ')'
+c:\users\jask3\source\repos\karty\karty\main.cpp(76): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jask3\source\repos\karty\karty\main.cpp(78): error C2065: 'AIstandard': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(78): error C2146: syntax error: missing ';' before identifier 'standard'
+c:\users\jask3\source\repos\karty\karty\main.cpp(78): error C2065: 'standard': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(79): error C2065: 'AIjanek': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(79): error C2146: syntax error: missing ';' before identifier 'janek'
+c:\users\jask3\source\repos\karty\karty\main.cpp(79): error C2065: 'janek': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(84): error C2065: 'dealer': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(84): error C2065: 'players': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(93): error C2065: 'janek': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(93): error C2065: 'standard': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(102): error C2065: 'mValue': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(102): error C2065: 'dealer': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(102): error C2065: 'mColor': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(107): error C2065: 'dealer': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(110): error C2065: 'dealer': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(120): error C2065: 'janek': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(124): error C2065: 'janek': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(131): error C2065: 'standard': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(135): error C2065: 'standard': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(140): error C2065: 'janek': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(145): error C2065: 'standard': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(150): error C2065: 'standard': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(150): error C2065: 'dealer': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(152): error C2065: 'janek': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(152): error C2065: 'dealer': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(154): error C2065: 'dealer': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(159): error C2065: 'standard': undeclared identifier
+c:\users\jask3\source\repos\karty\karty\main.cpp(159): error C2065: 'janek': undeclared identifier
+  PlayerStatus.cpp
+c:\users\jask3\source\repos\karty\karty\playerstatus.cpp(6): error C2512: 'Card': no appropriate default constructor available
+  c:\users\jask3\source\repos\karty\karty\card.h(5): note: see declaration of 'Card'
+  Rules.cpp
+  sDealer.cpp
+  Generating Code...
